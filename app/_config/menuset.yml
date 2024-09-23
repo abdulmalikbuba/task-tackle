@@ -1,0 +1,7 @@
+Heyday\MenuManager\MenuSet:
+    default_sets:
+        - Main
+        - Footer
+        - WidgetOneHeader
+        - WidgetTwoHeader
+        - WidgetThreeHeader
